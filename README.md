@@ -1,3 +1,5 @@
+<img width="1360" height="960" alt="02_LeadRoute_diagram" src="https://github.com/user-attachments/assets/3b9a43ea-e01f-4040-82c4-9a5c4b51b211" />
+[leadroute.json](https://github.com/user-attachments/files/32848274/leadroute.json)
 # LeadRoute — Multi-Source Real Estate Lead Management Automation
 
 A lead capture and routing system for a real estate business. It collects leads from several channels, removes duplicates, gives each lead an ID, assigns it to the right agent by city, notifies everyone involved, and follows up if the agent hasn't acted.
